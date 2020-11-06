@@ -1,7 +1,7 @@
 <h3 align="center"><b>MY STORYBOOKS</h3>
 <h4 align="center">CREATE PUBLIC AND PRIVATE STORIES FROM YOUR LIFE</h4></b>
 <br><br>
-<b>Node.js , Express , Passport , Handlebars</b><br>
+<b>NodeJS , Express , Passport , Handlebars</b><br>
 <b>Database : </b>Mongodb<br>
 <b>Authentication : </b>Google OAuth
 <br><br>
